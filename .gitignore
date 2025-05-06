@@ -1,0 +1,27 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+build/
+.gradle/
+local.properties
+captures/
+
+# Gradle
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+
+# Build output
+app/build/
+*.apk
+*.aab
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Sensitive files
+keystore.properties
+secrets.properties
